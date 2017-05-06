@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<head>
+  <link href="style.css" rel="stylesheet" type="text/css">
+  <link rel="icon" href="https://pbs.twimg.com/profile_images/825433399925956608/f30XQBEP_400x400.jpg">
+  <title>GO ROGUE</title>
+</head>
+
+<body>
+  <img class=header src="http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg"></img>
+  <h1 class=title>GO ROGUE</h1>
+  <!-- section for the navigation bar -->
+  <div class=navBar>
+    <ul>
+      <li><a href="newsFeed.html">NEWS FEED</a></li>
+      <li><a href="about.html">ABOUT</a></li>
+      <li><a href="resources.html">RESOURCES</a></li>
+      <li><a href="charitiesNearYou.html">NEAR YOU</a></li>
+      <li><a href="mainpage.html">HOME</a></li>
+    </ul>
+  </div>
+
+  <div class="text">
+    <!--Here is the description of the website -->
+    <h2 id=h2>Knowledge is power. Resist misinformation.</h2>
+    <div id=p>
+      <p>
+        This website is meant to connect others with local and national resources to
+        empower them to be proactive and take small, actionable steps that can and
+        will accumulate into meaningful change. Regardless of political affiliation,
+        regardless of who is in office, we need to make a commitment to civic engagement
+        and keep those in power accountable by advocating for the quality of life, rights,
+        and liberties of not only ourselves but of others as well.
+      </p>
+      <p>
+        This is especially true, in light of an administration which is willing to lie about
+        something as blatantly obvious as the inauguration turn out, and has an unprecedented
+        lack of transparency with the media ---  Donate to charities and nonprofits doing
+        incredible and important work on the front lines in your community and throughout
+        the country. Call your representative(s), who know they are responsible for and will
+        seriously take into consideration the wants and needs of their constituents.
+      </p>
+      <p>
+        It’s the little things --- a lot of little things, that make all the difference.
+      </p>
+      <p>
+        Politics are more polarized than ever, but you can reverse this course of action by
+        refusing to be blindly beholden to a particular political party. Keep up with the news,
+        form an educated political opinion. Make an effort to understand and engage in constructive
+        discourse with those who share different values than you do. But call out BS as you see it.
+        That you or another group of people don’t deserve the rights and liberties afforded to the
+        majority of others is not a political opinion. Remind yourself of this. Remind others of this.
+      </p>
+      <p>
+        Stand up for members of vulnerable communities as their safety and rights are put in harm’s way.
+        For many people, the political process is less about a game of ideological chess and more of
+        something that has a direct impact on their day to day lives. Which is why this should matter to you,
+        and you should actually do something about it.
+      </p>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,196 @@
+#h2 {
+  color: #343d46;
+}
+
+.navBar {
+  margin: 0 auto;
+  list-style-type: none;
+  position: absolute;
+  font-family: 'Exo 2', sans-serif;
+  /*border-color: #c0c5ce;
+  border-top: solid;
+  border-bottom: solid;
+  */
+  align-items: center;
+  margin-left: 485px;
+}
+
+navBar.ul {
+  display: inline-block;
+  border-color: #c0c5ce;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+h1.title {
+  font-size: 300%;
+  text-align: center;
+  color: 	#343d46;
+  font-family: 'sans-serif';
+  font-weight: bold;
+}
+
+div.navBar a {
+  display: block;
+  text-align: left;
+  width: 100px;
+  text-decoration: none;
+  color: #c0c5ce;
+  border-color: #c0c5ce;
+}
+
+div.navBar li {
+  display: block;
+  float: left;
+  list-style-type: none;
+  margin-bottom: 20px;
+  border-color: #c0c5ce;
+  text-align: left;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+  color: #343d46;
+}
+
+div.paragraph {
+  display: inline;
+}
+
+body {
+  background-color: white;
+}
+
+div.text {
+  color: #c0c5ce;
+  font-family: sans-serif;
+  margin-top: 125px;
+}
+
+iframe {
+  border: solid;
+  border-color: #343d46;
+  border-spacing: 100px;
+  display: block;
+  margin: 0 auto;
+}
+
+.pics {
+  display: inline-block;
+  align-items: center;
+  margin: 75px;
+  margin-left: 225px;
+}
+
+#ughhh {
+  margin: auto;
+  text-align: center;
+}
+
+.header {
+  height: 250px;
+  width: 100%;
+  overflow: hidden;
+}
+
+#p {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+}
+
+#knowledge {
+  border-top: solid;
+  border-bottom: solid;
+  border-color: #343d46;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+#links a {
+  text-align: center;
+  margin: 40px;
+  color: #343d46;
+}
+
+.helpme {
+  color: #343d46;
+  text-align: center;
+}
+
+#thing1 a {
+  float: left;
+  display: inline;
+  margin: 25px;
+  margin-left: 45px;
+}
+
+#thing2 a {
+  float: left;
+  display: inline;
+  margin: 25px;
+  margin-left: 45px;
+}
+
+/*
+p {
+  text-align: center;
+  color: #343d46;
+}
+*/
+.firstVid {
+  margin-top: 100px;
+}
+
+.question {
+  font-size: 25px;
+  margin-left: 200px;
+  margin-right: 100px;
+  font-weight: bold;
+  color: #343d46;
+}
+
+.answer {
+  margin-left: 250px;
+  margin-right: 100px;
+  color: #c0c5ce;
+}
+
+#first {
+  margin-top: 100px;
+  color: #343d46;
+}
+
+.descrip {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: left;
+  font-size: 20px;
+  color: #343d46;
+}
+
+#cited {
+  text-align: left;
+  margin-left: 100px;
+  margin-right: 100px;
+  color: #343d46;
+}
+
+.comment {
+  margin-left: 250px;
+  margin-right: 100px;
+  color: #343d46;
+}
+
+.que {
+  margin-left: 300px;
+  margin-right: 100px;
+  color: #343d46;
+}
+
+img {
+  margin-left: 450px;
+}
